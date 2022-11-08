@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         var names = ["Tammy", "Cole"]
         names.removeFirst()
         names.removeFirst()
-        names.removeFirst()
     }
 
 
